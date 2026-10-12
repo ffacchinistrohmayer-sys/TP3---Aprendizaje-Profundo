@@ -1,0 +1,16 @@
+# TP3 Aprendizaje Profundo - entorno local (VS Code)
+torch
+torchvision
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+opencv-python<5
+librosa
+soundfile
+gdown
+tqdm
+ipykernel
+jupyter
